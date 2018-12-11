@@ -1,2 +1,4 @@
-# 290Work
-Writeups for CMPM 290 @ UCSC
+# 290 Writeups
+by Devi Acharya
+
+Various writeups for class CMPM 290 at UCSC. 
